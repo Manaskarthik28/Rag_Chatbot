@@ -1,0 +1,9 @@
+'fastapi[standard]'
+langchain==0.3.27
+langchain-chroma==0.2.6
+langchain-community==0.3.30
+langchain-core==0.3.77
+langchain-google-genai==2.1.12
+langchain-text-splitters==0.3.11
+pypdf==6.1.1
+python-dotenv==1.1.1
